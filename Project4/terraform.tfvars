@@ -1,0 +1,7 @@
+vpc_cidr_block = "10.0.0.0/16"
+vpc_name = "main"
+vpc_ig_name = "demo_vpc_ig"
+vpc_ig_sub1 = "first_subnet"
+vpc_ig_sub2 = "second_subnet"
+vm_instancetype = "t2.micro"
+sg_name = "new_sg"
